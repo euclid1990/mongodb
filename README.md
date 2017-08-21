@@ -10,4 +10,4 @@ Learn all about the features in MongoDB at [MongoDB University](https://universi
 - How to use Compass, the MongoDB GUI
 - The MongoDB document model and basic schema design
 - The MongoDB query language
-- How to use Atlas, MongoDB's hosted database as a service offering
+- How to use Atlas, MongoDB's hosted database as a service offering.
