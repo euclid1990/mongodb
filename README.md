@@ -6,8 +6,8 @@ Learn all about the features in MongoDB at [MongoDB University](https://universi
 
 ### MongoDB Basics
 
-- How to install MongoDB
-- How to use Compass, the MongoDB GUI
-- The MongoDB document model and basic schema design
-- The MongoDB query language
+- How to install MongoDB.
+- How to use Compass, the MongoDB GUI.
+- The MongoDB document model and basic schema design.
+- The MongoDB query language.
 - How to use Atlas, MongoDB's hosted database as a service offering.
